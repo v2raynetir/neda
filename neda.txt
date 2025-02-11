@@ -1,9 +1,8 @@
-
 {
  "outbounds": [
   {
    "type": "ssh",
-   "tag": "Neda SSH 1",
+   "tag": "Neda VIP",
    "server": "68.183.78.54",
    "server_port": 22,
    "user": "lionssh_vilsdps",
@@ -11,23 +10,3 @@
   }
  ]
 }
-
-{
-  "type": "vmess",
-  "tag": "vmess-in",
-
- vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1MDYyN1x1MDYzOVx1MDYyQVx1MDYyOFx1MDYyN1x1MDYzMSBcdTA2MzNcdTA2MzFcdTA2NDhcdTA2Q0NcdTA2MzMgNSBcdTA2MjdcdTA2MzNcdTA2NDFcdTA2NDZcdTA2MkYiLA0KICAiYWRkIjogIjEuMS4xLjEiLA0KICAicG9ydCI6ICIxIiwNCiAgImlkIjogImEwYjc1OWNkLTRiNzYtNDJmYy1iYWRjLWZkYWFlNWYzODAwNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3YycmF5bmV0aXIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
-  "users": [
-    {
-      "name": "sekai",
-      "uuid": "1.1.1.1",
-      "alterId": 0
-    }
-  ],
-  "tls": {},
-  "multiplex": {},
-  "transport": {}
-}
-
-
