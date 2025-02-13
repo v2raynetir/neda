@@ -1,12 +1,3 @@
-{
- "outbounds": [
-  {
-   "type": "ssh",
-   "tag": "Neda VIP",
-   "server": "68.183.78.54",
-   "server_port": 22,
-   "user": "lionssh_vilsdps",
-   "password": "neda1403"
-  }
- ]
-}
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5lZGEgLSAxIiwNCiAgImFkZCI6ICI0NS4xMjkuMTg1LjExMSIsDQogICJwb3J0IjogIjEwMDAwIiwNCiAgImlkIjogIjVjYWJjYTQ0LWU3ZjYtMTFlZi1hZjMyLTQ3NGUwOTBjNGNiOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZwbmphbnRpdCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5lZGEgLSAyIiwNCiAgImFkZCI6ICIyMDkuMTM1LjE3MS4yMzgiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICJmY2Y5NzNkNC1lN2Y2LTExZWYtOTEwYy1mYjNhODZkMzAzMjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
